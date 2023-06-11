@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
           primaryColor: const Color(0xFFC91B3A),
           backgroundColor: const Color(0xFFEFEFEF),
-          accentColor: const Color(0xFF888888),
           textTheme: const TextTheme(
             //设置Material的默认字体样式
             bodyMedium: TextStyle(color: Color(0xFF888888), fontSize: 16.0),
